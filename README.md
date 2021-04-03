@@ -11,10 +11,14 @@ About me: I am person that like Develop.
 Info thingy:
 
 🔭 I’m currently working on AirMC Network
+
 🌱 I’m currently learning Java and PHP
+
 💬 Ask me about anything
+
 📫 How to reach me:
   Discord: vicpar_YT#6666
   Instagram: @vicpar_YT
   Email: vicpary@airmcc.f
+
 ~ VICPAR
