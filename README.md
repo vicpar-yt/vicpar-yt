@@ -17,8 +17,11 @@ Info thingy:
 💬 Ask me about anything
 
 📫 How to reach me:
+  
   Discord: vicpar_YT#6666
+  
   Instagram: @vicpar_YT
+  
   Email: vicpar@airmc.cf
 
 ~ VICPAR
