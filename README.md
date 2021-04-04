@@ -18,8 +18,8 @@ Info thingy:
 
 📫 How to reach me:
   
-  Discord: vicpar_YT#6666
-  Instagram: @vicpar_YT
-  Email: vicpar@airmc.cf
+  Discord: vicpar_YT#6666 .
+  Instagram: @vicpar_YT .
+  Email: vicpar@airmc.cf .
 
 ~ VICPAR
