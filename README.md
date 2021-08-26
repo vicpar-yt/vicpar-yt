@@ -4,6 +4,7 @@ I am the CEO of VICPAR Informatica.
 
 My Experiences:
 AirMC Network: Currently Close
+
 VICPAR Informatica: Currently Owning
 
 About me: I am a person that like Develop.
