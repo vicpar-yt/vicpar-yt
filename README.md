@@ -6,7 +6,7 @@ My Experiences:
 AirMC Network: Currently Close
 VICPAR Informatica: Currently Owning
 
-About me: I am person that like Develop.
+About me: I am a person that like Develop.
 
 Info thingy:
 
