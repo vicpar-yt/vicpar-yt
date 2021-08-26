@@ -1,5 +1,3 @@
-Hi 👋
-
 Hello 👋, My name is VICPAR or you can call me vic. I am a Junior/Semi-Senior Developer. I am currently learning about java. I am also a developer and have knowledge of little of Java, Html, css and a little of PHP.
 
 I am the CEO of VICPAR Informatica.
