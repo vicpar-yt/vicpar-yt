@@ -3,6 +3,7 @@ Hello 👋, My name is VICPAR or you can call me vic. I am a Junior/Semi-Senior 
 I am the CEO of VICPAR Informatica.
 
 My Experiences:
+
 AirMC Network: Currently Close
 
 VICPAR Informatica: Currently Owning
